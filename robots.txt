@@ -8,3 +8,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 Sitemap: https://bear30921.github.io/sitemap.xml
+Sitemap: https://bear30921.github.io/baidusitemap.xml
