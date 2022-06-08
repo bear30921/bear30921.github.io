@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bear30921.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bear30921.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bear30921.github.io/uncategorized/20220604/1243066710/</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bear30921.github.io/vuejs/20220607/2252273094/</loc>
     
     <lastmod>2022-06-08</lastmod>
@@ -20,34 +47,7 @@
   </url>
   
   <url>
-    <loc>https://bear30921.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bear30921.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bear30921.github.io/404.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bear30921.github.io/uncategorized/20220604/1243066710/</loc>
     
     <lastmod>2022-06-06</lastmod>
     
